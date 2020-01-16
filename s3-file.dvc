@@ -1,0 +1,7 @@
+md5: 4f9cc60bb78f7fd1e1559c109707bede
+outs:
+- md5: df31759540dc28f75a20f443a19b1148
+  path: s3-file
+  cache: true
+  metric: false
+  persist: false

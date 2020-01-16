@@ -1,0 +1,4 @@
+['remote "s3remote"']
+url = https://s3.amazonaws.com/dvc-test-bucket-fabio
+[core]
+remote = s3remote
