@@ -1,0 +1,13 @@
+md5: bb6cdecb0226a56593a0695759dab179
+locked: true
+deps:
+- path: something-to-turn-into-dir
+  repo:
+    url: https://github.com/fabiosantoscode/dvc-testing
+    rev_lock: 64588d484650c20a12b1d5868aa55ca566ee06d5
+outs:
+- md5: 181a935e894f981b0ccea17a3a6b2143
+  path: something-to-turn-into-dir
+  cache: true
+  metric: false
+  persist: false
