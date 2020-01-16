@@ -1,0 +1,7 @@
+md5: fc9b673351b2ec04d965d11ab195934a
+outs:
+- md5: d3b07384d113edec49eaa6238ad5ff00
+  path: data
+  cache: true
+  metric: false
+  persist: false
